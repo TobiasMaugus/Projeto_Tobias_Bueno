@@ -10,6 +10,10 @@ public Class B{
         System.out.println("Method B2");
     }
 
+    public void MB3(){
+        System.out.println("Method B3");
+    }
+
     public int get B1(){
         return B1;
     }
