@@ -2,6 +2,10 @@ public Class A{
     private int A1;
     private float A2;
 
+    public int getSoma(int a, int b) {
+        return a + b;
+    }
+    
     public void MA1(){
         System.out.println("Method A1");
     }
