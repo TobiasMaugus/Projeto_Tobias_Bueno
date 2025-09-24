@@ -1,10 +1,12 @@
-public Class A{
+package joao_salomao.Projeto_Tobias_Bueno;
+public class A{
     private int A1;
     private float A2;
 
     public int getSoma(int a, int b) {
-        return a + b;
+    return b + a;
     }
+
     
     public void MA1(){
         System.out.println("Method A1");
